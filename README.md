@@ -3,7 +3,7 @@ A Machine Learning-based Resume Screening and Candidate Ranking System that auto
 
 # Resume Screening ML System
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a Machine Learning based **Resume / Candidate Screening System** that automatically analyzes resumes, compares them with job descriptions, ranks candidates based on job-role fit, and identifies missing skills.
 
@@ -11,7 +11,7 @@ It helps recruiters reduce manual effort and shortlist candidates faster using N
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To build an intelligent hiring support system that can:
 
@@ -24,7 +24,7 @@ To build an intelligent hiring support system that can:
 
 ---
 
-## 📂 Datasets Used
+##  Datasets Used
 
 ### 1. Resume Dataset
 
@@ -38,7 +38,7 @@ Contains job titles and job descriptions.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -98,7 +98,7 @@ Generated bar charts for top ranked candidates.
 
 ---
 
-## ✅ Results
+##  Results
 
 The system successfully:
 
@@ -109,7 +109,7 @@ The system successfully:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * PDF Resume Parsing
 * Streamlit Web App Interface
@@ -119,12 +119,12 @@ The system successfully:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how Machine Learning and NLP can automate the recruitment process and improve hiring efficiency through smart resume screening.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Developed as part of Future Interns ML Internship Task.
